@@ -1,0 +1,16 @@
+#define X			0
+#define Y			1
+#define ANGLE			2
+#define A			3
+#define B			4
+#define ECART			5
+#define DOMAINE			8
+#define RANGE			4
+#define COEF			(DOMAINE/RANGE)
+#define NB_COEUR		4
+#define PAS_DOMAINE		DOMAINE
+#define PAS_ANGLE		90
+#define PAS_ALPHA		2
+#define PAS_BETA		8
+#define RANGE_ALPHA		0.9
+#define RANGE_BETA		64
